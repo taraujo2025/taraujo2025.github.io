@@ -20,4 +20,4 @@ index.html
   <p><a href="https://wa.me/5563992732345" target="_blank">Clique aqui para atendimento via WhatsApp</a></p>
 </body>
 </html>
-<img src="logo.png" alt="Logo do Suporte" width="300" />
+<img src="logo.png" alt="Descrição da imagem" />
